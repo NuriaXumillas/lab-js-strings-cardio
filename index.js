@@ -79,3 +79,5 @@ console.log(string4.length);
 
 // b) Print the last character in the string
 console.log(string4[string4.length - 1]);
+
+// sean felices
